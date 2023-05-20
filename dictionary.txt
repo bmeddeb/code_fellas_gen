@@ -11,7 +11,7 @@ Porsche -
 BMW -
 Biergarten - beer garden
 Ratskeller 
-Dirndel - dirndl
+Dirndel - dirndl (dress)
 Lederhose - leather pants
 Schloss - lock
 wettbewerbsfa - competitive
@@ -21,7 +21,7 @@ Mehlhase - flour bunny
 Gebaeck - pastries
 Baeckerei - bakery
 Hund - dog
-Doener - donor
+Doener - doner (food)
 Apfelkuchen - apple cake
 Schloss - lock
 Eltz
